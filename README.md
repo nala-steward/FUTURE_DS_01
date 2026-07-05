@@ -1,13 +1,14 @@
 # FUTURE_DS_01
 
 About the task:
-  Work with business sales data, and analyse it in a way that allows a business to answer   important questions.
+
+  - Work with business sales data, and analyse it in a way that allows a business to answer   important questions.
   
-  i.e.
-  - Which products generate the most revenue?
-  - How do sales change over time?
-  - Which categories or regions are most profitable?
-  - Where should the business focus to grow faster?
+  - i.e.
+    - Which products generate the most revenue?
+    - How do sales change over time?
+    - Which categories or regions are most profitable?
+    - Where should the business focus to grow faster?
 
 Objectives:
   - Clean and organize raw sales data (Excel or CSV format)
